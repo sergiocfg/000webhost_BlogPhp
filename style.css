@@ -1,0 +1,142 @@
+body{
+    background: #FFF8DC;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #3A3A3A;
+}
+
+.admin{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+   /* background-color: aliceblue;*/
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.btn{
+    /*width: 60%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    text-align: center;*/
+    width: 45%;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+    text-align: center;
+}
+.btn-r{
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.textarea{
+    width: 100%;
+}
+.title{
+
+}
+.title-article{
+    width: 100%;
+    padding: 0;
+    /*border: dashed;*/
+}
+.feed{
+    width: 90%;
+    padding: 20px;
+    /*border: dashed;
+    background-color: cadetblue;*/
+}
+.feed-comment{
+    width: 100%;
+    padding: 20px;
+    border: ridge;
+    /* background-color: cadetblue;*/
+}
+.option{
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    text-align: left;
+}
+.input{
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    text-align: left;
+}
+.login{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    text-align: left;
+}
+
+.login-text{
+    text-align: center;
+}
+.alert{
+    width: 100%;
+    padding: 20px;
+    background-color: inherit;
+}
+.messages{
+}
+.formLogin{
+}
+
+/* Header navigation style */
+.navigation{
+    /*text-align: right;
+    background: #FFF8DC;
+    color: #FF0000;*/
+}
+.mp{
+    text-align: right;
+    display: block;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    overflow: hidden;
+}
+ul {
+    list-style: none;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #2d8ac7;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #8a6d3b;
+}
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+/**/
+
